@@ -13,7 +13,7 @@ public class LargestElementOfArray {
 			{
 				if(arr[i]>arr[j])
 				{
-			   temp = arr[i];
+			   temp = arr[i]:
 				   arr[i]=arr[j];
 				   arr[j]=temp;
 				}  

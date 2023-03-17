@@ -28,6 +28,5 @@ public class SmallestElementOfArray {
 			System.out.println("Smallest elememet :"+arr[arr.length-1]);
 		}
 
-
 	}
 
