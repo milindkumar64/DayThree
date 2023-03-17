@@ -11,6 +11,7 @@ public class ArrayFrequency {
 		int count3=0;
 		int count4=0;
 		int count5=0;
+		
 		int count6=0;
 		
 		

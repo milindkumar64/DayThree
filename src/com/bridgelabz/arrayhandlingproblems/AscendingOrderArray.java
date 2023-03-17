@@ -29,7 +29,4 @@ public class AscendingOrderArray {
 			
 			System.out.println("Largest elememet :"+arr[arr.length-1]);
 		}
-
-	
-
 }

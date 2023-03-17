@@ -13,7 +13,7 @@ public class DuplicateArray {
 			int count=1;
 			for(int j=i+1;j<arr.length;j++)
 			{
-			
+		
 				if(arr[i]==arr[j])
 				{   count++;
 				    freq[j]=visited;

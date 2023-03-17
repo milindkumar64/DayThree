@@ -30,5 +30,4 @@ public class SecondLargestElement {
 		System.out.println("2nd Largest :"+arr[arr.length-2]);
 	}
 	
-
 }
